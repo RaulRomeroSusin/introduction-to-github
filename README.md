@@ -14,3 +14,4 @@
 11. Qué son GitHub Pages 
 GitHub Pages es un servicio de alojamiento de sitio estático que toma archivos HTML, CSS y JavaScript directamente desde un repositorio en GitHub, opcionalmente ejecuta los archivos a través de un proceso de complilación y publica un sitio web.
 12. Qué es GitHub Flow. GitHub Flow se define como un sistema de flujo de trabajo que se centra en los procesos de ramificación y que permite realizar implementaciones regulares en los proyectos, contribuyendo así a garantizar la entrega continua.
+![](capturatrabajohecho.png)
