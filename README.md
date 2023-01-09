@@ -1,7 +1,7 @@
-1. Busca en Wikipedia e indica:
-  - Qué es GitHub y su relación con Git
+# Busca en Wikipedia e indica:
+1-Qué es GitHub y su relación con Git
   Git y GitHub son dos entidades diferentes que te ayudan a administrar y alojar archivos. En otras palabras Git sirve para controlar las versiones de los archivos mientras que GitHub es una plataforma para alojar tus repositorios Git.
-  - Compañía dueña de GitHub
+1.5- Compañía dueña de GitHub
   Microsoft
 2. Qué es una rama en el código (branch of the code)  Las ramas son una división del estado del código, esto permite crear nuevos caminos a favor de la evolución del código.
 3. Qué es una nueva característica en el código (new feature) 
